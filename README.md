@@ -5,7 +5,7 @@ This repository is the public home for the Aurora Watcher iOS app's roadmap, fut
 
 The public beta of the software is now made public here, accepting new users: 
 
-[![TestFlight Public Beta](https://img.shields.io/badge/publicBeta-Accepting-brightgreen?style=for-the-badge)]([YOUR_PUBLIC_TESTFLIGHT_LINK_HERE](https://testflight.apple.com/join/5US77U6c))
+[![TestFlight Public Beta](https://img.shields.io/badge/publicBeta-Accepting-brightgreen?style=for-the-badge)](https://testflight.apple.com/join/5US77U6c)
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/siweihe)
