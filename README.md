@@ -3,6 +3,8 @@
 
 This repository is the public home for the Aurora Watcher iOS app's roadmap, future plans, and a place where the community can ask questions, report issues, and give feedback.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/siweihe)
+
 ## Overview
 
 - **Purpose:** Communicate what we're planning for Aurora Watcher (iOS), collect public feedback, and let users report bugs or suggest features by opening issues.
